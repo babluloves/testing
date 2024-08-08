@@ -1,1 +1,2 @@
-2024-03-18 11:24:17,OML,10.55.69.153,botmfsdbv101,CPU,4.2,2.4,0.0,93.1,0.0,0.2,0.2,0.0
+date,time,module,ip,hostname,metric,value1,value2,value3,value4,value5,value6,value7,value8
+2024-03-18,11:24:17,OML,10.55.69.153,botmfsdbv101,CPU,4.2,2.4,0.0,93.1,0.0,0.2,0.2,0.0
